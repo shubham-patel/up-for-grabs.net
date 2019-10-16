@@ -1,0 +1,14 @@
+---
+name: Mac Changer
+desc: It is a tool which is used to change the ma address of the interface you want. Please read the readme of the repository to get more information.
+site: https://github.com/shubham-patel/mac_changer
+tags:
+- Linux
+- Python2
+- Python3
+- Ethical Hacking
+- Cyber Security
+upforgrabs:
+  name: good-first-issue
+  link: https://github.com/shubham-patel/mac_changer/issues?q=is%3Aissue+is%3Aopen+label%3A%22good+first+issue%22
+---
